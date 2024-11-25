@@ -11,8 +11,7 @@ then it will take the E(RHE) column and Current density column of all 100 files,
 
 How to use the code: 
 1) Get your data from the potentiostat and copy and paste it into the Template CSV provided.
-2) Change the parameters on lines 204 to 208 to your values. ( the constant stays the same) and the other  variable names are self-explanatory if you need me to actually tell you what each of the variables mean 
-   you should consider a new career. Chemistry ain't it for you.
+2) Change the parameters on lines 204 to 208 to your values. ( the constant stays the same) and the other variable names are self-explanatory.
 3) Change the directories on lines 263-265.
 4) press the play button and watch as the code works its magic.
 
